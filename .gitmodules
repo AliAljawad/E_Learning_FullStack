@@ -1,0 +1,9 @@
+[submodule "student_frontend"]
+	path = student_frontend
+	url = https://github.com/AliAljawad/e_learning_student_frontend.git
+[submodule "admin_frontend"]
+	path = admin_frontend
+	url = https://github.com/AliAljawad/E_Learning_Admin_ElectronJs.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AliAljawad/E_learning_Backend.git
